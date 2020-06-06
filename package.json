@@ -1,0 +1,22 @@
+{
+  "name": "divide-and-conquer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "count-inversions.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dennisporterjr/divide-and-conquer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dennisporterjr/divide-and-conquer/issues"
+  },
+  "homepage": "https://github.com/dennisporterjr/divide-and-conquer#readme",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}
